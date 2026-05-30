@@ -1,0 +1,9 @@
+Advanced filtering
+String operations
+Date & time handling
+Excel automation
+Data cleaning project
+Real-world sales analysis project
+25 Pandas interview questions
+NumPy + Pandas together
+Pandas for machine learning
