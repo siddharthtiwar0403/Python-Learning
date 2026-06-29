@@ -1,7 +1,5 @@
-# import pandas as pd
-# import requests
-# from bs4 import BeautifulSoup
+import pandas as pd
+import requests
+from bs4 import BeautifulSoup
 
-# requests.get('https://www.ambitionbox.com/list-of-companies?page=1')
-
-
+requests.get('https://www.ambitionbox.com/list-of-companies?page=1')
